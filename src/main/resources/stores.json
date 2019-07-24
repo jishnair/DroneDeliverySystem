@@ -1,0 +1,44 @@
+{
+  "stores": [
+    {
+      "Id": "Store1",
+      "address": "Schiessstraße 31, 40549 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.237653,
+        "longitude": 6.719553
+      }
+    },
+    {
+      "Id": "Store2",
+      "address": "Friedrichstraße 152, 40217 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.209426,
+        "longitude": 6.778194
+      }
+    },
+    {
+      "Id": "Store3",
+      "address": "Breslauer Str. 2, 41460 Neuss",
+      "coordinates": {
+        "latitude": 51.202175,
+        "longitude": 6.718694
+      }
+    },
+    {
+      "Id": "Store4",
+      "address": "Bataverstraße 93, 41462 Neuss",
+      "coordinates": {
+        "latitude": 51.231469,
+        "longitude": 6.685699
+      }
+    },
+    {
+      "Id": "Store5",
+      "address": "Am Sandbach 30, 40878 Ratingen",
+      "coordinates": {
+        "latitude": 51.297359,
+        "longitude": 6.831197
+      }
+    }
+  ]
+}

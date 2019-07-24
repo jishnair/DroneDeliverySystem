@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "Id": "C1",
+      "address": "Kronprinzenstraße 88, 40217 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.211905,
+        "longitude": 6.770073
+      }
+    },
+    {
+      "Id": "C2",
+      "address": "Kaiserstraße 2, 40479 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.235321,
+        "longitude": 6.778389
+      }
+    },
+    {
+      "Id": "C3",
+      "address": "Wildenbruchstraße 2, 40545 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.227795,
+        "longitude": 6.759981
+      }
+    },
+    {
+      "Id": "C4",
+      "address": "Schlesische Straße 5, 40231 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.208222,
+        "longitude": 6.831165
+      }
+    }
+  ]
+}

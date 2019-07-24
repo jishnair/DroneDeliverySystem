@@ -1,0 +1,22 @@
+{
+  "drones": [
+    {
+      "Id": "D1",
+      "location": "Metrostrasse 12, 40235 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.234813,
+        "longitude": 6.825593
+      },
+      "speed": 60
+    },
+    {
+      "Id": "D2",
+      "location": "Am Albertussee 1, 40549 Düsseldorf",
+      "coordinates": {
+        "latitude": 51.236666,
+        "longitude": 6.723860
+      },
+      "speed": 60
+    }
+  ]
+}
